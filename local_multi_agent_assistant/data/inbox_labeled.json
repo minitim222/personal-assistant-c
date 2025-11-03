@@ -1,0 +1,32 @@
+[
+  {
+    "subject": "Weekly Lab Meeting",
+    "sender": "prof.smith@university.edu",
+    "body": "Let's meet Wednesday 2 PM to discuss results.",
+    "true_label": "meeting_request"
+  },
+  {
+    "subject": "Collaboration on dataset",
+    "sender": "bharti@childrens.harvard.edu",
+    "body": "Can we merge the E14 and MIA datasets?",
+    "true_label": "collaboration_invite"
+  },
+  {
+    "subject": "Server downtime tonight",
+    "sender": "it@institute.org",
+    "body": "Maintenance window from 11PM to 1AM.",
+    "true_label": "system_notification"
+  },
+  {
+    "subject": "Congratulations!",
+    "sender": "admin@school.edu",
+    "body": "Congrats on your recent award!",
+    "true_label": "update"
+  },
+  {
+    "subject": "AI conference ad",
+    "sender": "noreply@randommail.com",
+    "body": "Join our free AI event!",
+    "true_label": "spam"
+  }
+]
